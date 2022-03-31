@@ -1,0 +1,10 @@
+/LIBRARY/*.fa
+
+/input_tool1/*.fa
+
+/output_tool1/**
+!/output_tool1/README
+
+work/
+.nextflow*
+
