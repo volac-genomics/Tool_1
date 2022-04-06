@@ -3,7 +3,7 @@
 /input_tool1/*.fa
 
 /output_tool1/**
-!/output_tool1/README
+!/output_tool1/.README.md
 
 work/
 .nextflow*
